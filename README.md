@@ -9,11 +9,6 @@ Day-Reveal is a Python-powered calendar that lets you explore dates across any y
 
 🚀 An excellent tool for mastering date manipulation in Python or as a handy utility for checking any date's day of the week!
 
-# How to Run
-
 ### Prerequisites:
 Make sure you have Python installed on your system. You can download it from (https://www.python.org/downloads/).
 
-### Installation Steps:
-1. Clone this repository:
-   ```bash https://github.com/BhvyaCodes/Day-Reveal.git
