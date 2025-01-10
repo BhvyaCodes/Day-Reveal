@@ -1,5 +1,4 @@
 # Day-Reveal
-Python script for date manipulation 
 Day-Reveal is a Python-powered calendar that lets you explore dates across any year with ease. Featuring dynamic functionality, it enables users to retrieve the day of the week for any date—past, present, or future!
 
 💡 Key Features:
