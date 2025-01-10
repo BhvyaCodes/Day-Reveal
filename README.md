@@ -16,5 +16,4 @@ Make sure you have Python installed on your system. You can download it from (ht
 
 ### Installation Steps:
 1. Clone this repository:
-   ```bash
-clone git https://github.com/BhvyaCodes/Day-Reveal.git
+   ```bash https://github.com/BhvyaCodes/Day-Reveal.git
